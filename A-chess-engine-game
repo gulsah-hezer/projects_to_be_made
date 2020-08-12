@@ -1,0 +1,5 @@
+# A-chess-engine-game
+
+Try to write an engine that can play chess against a human opponent using a Universal Chess Interface compatible GUI, such as XBoard.
+See Stockfish as an example.
+For a less daunting challenge, you may wish to focus on the behavior of just one piece, e.g.Knights.
